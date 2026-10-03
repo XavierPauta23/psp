@@ -1,4 +1,4 @@
-package Ejercicio3Hilos;
+package Bloque1.Ejercicio3Hilos;
 
 public class Main {
     public static void main(String[] args) {

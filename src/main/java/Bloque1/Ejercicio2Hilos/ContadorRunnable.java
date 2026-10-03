@@ -1,4 +1,4 @@
-package Ejercicio2Hilos;
+package Bloque1.Ejercicio2Hilos;
 
 public class ContadorRunnable implements Runnable{
 

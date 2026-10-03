@@ -1,4 +1,4 @@
-package Ejercicio1Hilos;
+package Bloque1.Ejercicio1Hilos;
 
 public class Main {
 
