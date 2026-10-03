@@ -1,4 +1,4 @@
-package EjercicioHilos;
+package Ejercicio1Hilos;
 
 public class ContadorThread extends Thread{
 
