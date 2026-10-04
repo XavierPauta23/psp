@@ -1,4 +1,4 @@
-package Ejercicio1;
+package EjerciciosConcurrencia.Ejercicio1;
 
 public class DescargaConRunnable implements Runnable{
     private final String nombreArchivo;

@@ -1,4 +1,4 @@
-package Ejercicio1;
+package EjerciciosConcurrencia.Ejercicio1;
 
 public class ComparativaHilosVirtuales {
     private static final int TOTAL_TAREAS = 10_000;
