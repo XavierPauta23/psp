@@ -1,3 +1,5 @@
+package Bloque3.Ejercicio1;
+
 public class ContadorConCondicionDeCarrera {
     private int valorContador = 0;
 
