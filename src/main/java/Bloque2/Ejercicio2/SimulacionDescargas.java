@@ -1,4 +1,4 @@
-package Ejercicio2;
+package Bloque2.Ejercicio2;
 
 import java.util.Random;
 

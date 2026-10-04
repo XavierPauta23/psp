@@ -1,4 +1,4 @@
-package Ejercicio3;
+package Bloque2.Ejercicio3;
 
 public class InterrupcionCooperativa {
     public static void main(String[] args) throws InterruptedException {

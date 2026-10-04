@@ -1,4 +1,4 @@
-package Ejercicio1;
+package Bloque2.Ejercicio1;
 
 public class EstadoHilo {
     public static void main(String[] args) throws InterruptedException {
