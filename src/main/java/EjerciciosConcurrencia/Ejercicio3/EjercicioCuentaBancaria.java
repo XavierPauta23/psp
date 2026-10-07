@@ -1,4 +1,4 @@
-package Ejercicio3;
+package EjerciciosConcurrencia.Ejercicio3;
 
 public class EjercicioCuentaBancaria {
     // 1. VERSIÓN NO SINCRONIZADA (Provoca condición de carrera)

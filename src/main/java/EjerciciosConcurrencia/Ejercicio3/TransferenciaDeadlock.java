@@ -1,4 +1,4 @@
-package Ejercicio3;
+package EjerciciosConcurrencia.Ejercicio3;
 
 public class TransferenciaDeadlock {
     static class CuentaBancaria {
